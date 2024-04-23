@@ -4,21 +4,15 @@
 
 ### [4월 첫째주, 1주차] : html, css
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
+- 2024.04.04
+  리틀리 프로필 제작 (https://www.notion.so/goorm/silvia-40084d153b4742398da73cc47feaa1ed?pvs=4)
 
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
+### [4월 둘째주, 2주차] : 간략 주제 작성 
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
+- 2024.04.05 ~ 04.07
+  커뮤니티 레이아웃 제작 (https://www.notion.so/goorm/silvia-1671b962af2f480ea4c49eb49c23e1d9?pvs=4)
 
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
+- 2024.04.09 ~ 04.11
+  HTTP 개념 정리 (https://www.notion.so/goorm/silvia-HTTP-267f68cf91c14acdb09cc81ec68e6496?pvs=4)
 
 
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
