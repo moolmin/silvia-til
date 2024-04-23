@@ -1,0 +1,27 @@
+# TIL Template
+
+## 날짜: 2024-04-23
+
+### 스크럼
+- https://goorm.notion.site/2024-04-23-240d285b19794bb4a6886acd9cb6727a
+
+### 새로 배운 내용
+#### 주제 1: 주제에 대한 설명
+- 상세 내용 1: Git 명령어 사용법
+- 상세 내용 2: Express.js MVC 패턴 
+
+#### 주제 2: 주제에 대한 설명
+- 상세 내용 1: 깃허브에서 sub branch를 생성하고 임의로 내용 수정 후 merge하여 생기는 이슈를 관찰하고 해결함
+- 상세 내용 2: Express.js MVC 패턴에 대해 공부하고 이를 js파일에 적용시킴
+
+### 오늘의 도전 과제와 해결 방법
+- 도전 과제 1: Github origin에서 organanization으로 PR 요청하기 -> merge후 발생할 수 있는 이슈를 확인함
+- 도전 과제 2: Express.js MVC 패턴 적용 -> model, view, controller, route가 서버에 하는 역할을 실제 코드에 적용해보며 감을 익힘
+
+### 오늘의 회고
+- Github의 기본적인 사용법을 익혔으며, 실무에서는 어떤식으로 사용하는지 프로젝트를 하면서 더 알아보고싶다.
+- Express로 인증, 인가를 추가해야하는데 기본 개념을 다시 잡아봐야겠다.
+
+### 참고 자료 및 링크
+- [Github 퀘스트](https://www.notion.so/goorm/silvia-Github-13e3095230a64f408b12f2654655dc1e?pvs=4L)
+- [Express.js 적용하기](https://www.notion.so/goorm/silvia-express-cedfe227b9b149f28cfaf927bfb52012?pvs=4)
